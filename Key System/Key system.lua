@@ -7,14 +7,14 @@
 -------------------------------------------------------------------------------
 local Config = {
     -- [1] PlatoBoost Settings
-    ServiceId       = 0, -- Your PlatoBoost Service ID
-    PlatoSecret     = "Token", -- Your PlatoBoost Secret Key
+    ServiceId       = 24269, -- Your PlatoBoost Service ID
+    PlatoSecret     = "b3da3360-6fd3-4eec-8e90-812dfced07d7", -- Your PlatoBoost Secret Key
 
     -- [2] Anti-Bypass / Global Secret Variable
     Secret          = "Code", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
     
     -- [3] Scripts & Links
-    MainScriptURL   = "Link", -- The raw URL of your main script
+    MainScriptURL   = "https://raw.githubusercontent.com/pro628713-arch/Test-nine-hub/refs/heads/main/Joo%20music", -- The raw URL of your main script
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
     ShowDiscord     = false,
@@ -34,7 +34,7 @@ local Config = {
     MainGuiName     = "", -- Name of the main script's GUI to check if it's already executing
 
     -- [7] Hub Information & UI Text
-    HubName         = "Test", -- The main title shown at the top of the GUI
+    HubName         = "joo hub", -- The main title shown at the top of the GUI
     HubDescription  = "Test" -- The text shown below the title
 }
 
