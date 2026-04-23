@@ -7,14 +7,14 @@
 -------------------------------------------------------------------------------
 local Config = {
     -- [1] PlatoBoost Settings
-    ServiceId       = 0, -- Your PlatoBoost Service ID
-    PlatoSecret     = "Token", -- Your PlatoBoost Secret Key
+    ServiceId       = 24269, -- Your PlatoBoost Service ID
+    PlatoSecret     = "4a27bfa46899a588873ce925348b9c1d7c8b457d8800780f26f4a33f52fd93b2", -- Your PlatoBoost Secret Key
 
     -- [2] Anti-Bypass / Global Secret Variable
     Secret          = "Code", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
     
     -- [3] Scripts & Links
-    MainScriptURL   = "Link", -- The raw URL of your main script
+    MainScriptURL   = "https://raw.githubusercontent.com/pro628713-arch/Test-nine-hub/refs/heads/main/obfuscated.lua.txt", -- The raw URL of your main script
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
     ShowDiscord     = false,
@@ -34,8 +34,8 @@ local Config = {
     MainGuiName     = "", -- Name of the main script's GUI to check if it's already executing
 
     -- [7] Hub Information & UI Text
-    HubName         = "Test", -- The main title shown at the top of the GUI
-    HubDescription  = "Test" -- The text shown below the title
+    HubName         = "joo key system", -- The main title shown at the top of the GUI
+    HubDescription  = "key system" -- The text shown below the title
 }
 
 -------------------------------------------------------------------------------
