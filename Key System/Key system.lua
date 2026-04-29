@@ -14,7 +14,7 @@ local Config = {
     Secret          = "Code", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
     
     -- [3] Scripts & Links
-    MainScriptURL   = "https://raw.githubusercontent.com/pro628713-arch/Test-nine-hub/refs/heads/main/obfuscated.lua.txt", -- The raw URL of your main script
+    MainScriptURL   = "https://raw.githubusercontent.com/yousefmohamedd92-a11y/-/refs/heads/main/%D8%B3%D9%83%D8%B3%20%D8%A8%D8%A7%D9%83%D8%B3", -- The raw URL of your main script
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
     ShowDiscord     = false,
