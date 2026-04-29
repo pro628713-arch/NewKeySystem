@@ -34,8 +34,8 @@ local Config = {
     MainGuiName     = "", -- Name of the main script's GUI to check if it's already executing
 
     -- [7] Hub Information & UI Text
-    HubName         = "joo key system", -- The main title shown at the top of the GUI
-    HubDescription  = "key system" -- The text shown below the title
+    HubName         = "zenix", -- The main title shown at the top of the GUI
+    HubDescription  = "zenix key system verified" -- The text shown below the title
 }
 
 -------------------------------------------------------------------------------
